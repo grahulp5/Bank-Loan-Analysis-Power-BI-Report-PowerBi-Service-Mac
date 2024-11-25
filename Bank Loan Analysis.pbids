@@ -1,0 +1,1 @@
+{"version":"1.0","connections":[{"details":{"protocol":"tds","address":{"server":"power-bi-project.database.windows.net","database":"Bank Loan Analysis"}},"mode":"DirectQuery"}]}
